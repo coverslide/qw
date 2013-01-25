@@ -1,3 +1,5 @@
+[![browser support](http://ci.testling.com/coverslide/qw.png)](http://ci.testling.com/coverslide/qw)
+
 # qw
 
 Perl's qw for JavaScript. It's very simple and doesn't do a whole lot, more of a time saver when you need an Array of strings. Basically `.split(/\s+/g)`, or the opposite of `.join(' ')`
